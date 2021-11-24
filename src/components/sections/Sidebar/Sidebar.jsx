@@ -51,9 +51,9 @@ const Sidebar = () => {
           </a> */}
         </p>
         <a
-          href="#0"
+          href={require("../../../resume.pdf").default}
           className="inline-block mb-3 rounded primary-bg text-center border-0 py-2 px-6 text-white leading-7 tracking-wide "
-          download="Resume"
+          download
         >
           Download Resume
         </a>
