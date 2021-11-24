@@ -1,0 +1,19 @@
+.primary-bg {
+  background-color: #111111;
+}
+.primary-text {
+  color: #111111;
+}
+.primary-bg-hover:hover {
+  background-color: #111111;
+}
+.primary-text-hover:hover {
+  color: #111111;
+}
+
+.ul-bullet li {
+  list-style-type: disc;
+}
+.primary-border {
+  border: 1px solid #111111;
+}
